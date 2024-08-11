@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+db.sqlite3-journal
+
+# Django migrations
+**/migrations/__pycache__/
+**/migrations/*.py[cod]
+**/migrations/0001_initial.py  # Excluye solo el archivo 0001_initial.py en cualquier carpeta de migraciones
+**/migrations/*.py  # Excluye otros archivos de migración en cualquier carpeta de migraciones, pero no afecta al 0001_initial.py ya que está explícitamente excluido
+
+# If using SQLite3
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env.local

@@ -1,0 +1,16 @@
+<!-- ex01/templates/ex01/movies.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies List</title>
+</head>
+<body>
+    <h1>Movies List</h1>
+    <ul>
+        {% for movie in movies %}
+            <li>{{ movie.episode_nb }} - {{ movie.title }} - Directed by {{ movie.director }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
