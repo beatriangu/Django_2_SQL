@@ -22,4 +22,10 @@ ex06 SQL - Updating a data.
 
 ex07 ORM - Updating a data.
 
+ex08 SQL - Foreign Key.
+
+ex09 ORM - Foreign Key.
+
+ex10 ORM - Many to Many.
+
 
