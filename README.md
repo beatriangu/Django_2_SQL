@@ -28,4 +28,7 @@ ex09 ORM - Foreign Key.
 
 ex10 ORM - Many to Many.
 
+<p align="left">
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-06%2020-06-51.png?raw=true" alt="Miniatura" width="200"/>
+</p>
 
