@@ -21,7 +21,8 @@ ex04 SQL - Data deleting.
 ex05 ORM - Deleting data.
 
 ex06 SQL - Updating a data.
-## Screenshot Example
+
+<img src="https://github.com/beatriangu/Django_2_SQL/blob/main/path_to_your_thumbnail.png" alt="Miniatura" width="300"/>
 
 ![Miniatura](https://github.com/beatriangu/Django_2_SQL/blob/main/path_to_your_thumbnail.png)
 
