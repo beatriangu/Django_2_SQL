@@ -1,10 +1,12 @@
-# Django_2_SQL
+# Django_2_SQL 
 
 About CRUD with SQL versus ORM.
 C: Create 
 R: Read 
 U: Update 
 D: Delete 
+
+Comparing both approaches helps to understand when it is more efficient or convenient to use one over the other, depending on the use case. Direct SQL can be faster and more flexible in specific situations, while ORM provides greater convenience and security in most scenarios.
 
 ex00 SQL - Building a table.
 
