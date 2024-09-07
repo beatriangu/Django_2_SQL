@@ -27,9 +27,6 @@ ex06 SQL - Updating a data.
 ex07 ORM - Updating a data.
 
 ex08 SQL - Foreign Key
-<p align="left" style="margin-bottom: 10px;">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2016-07-41.png" alt="Miniatura" width="300"/>
-</p>
 
 <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2016-07-41.png" alt="Miniatura" width="300"/>
