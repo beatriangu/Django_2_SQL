@@ -22,10 +22,7 @@ ex05 ORM - Deleting data.
 
 ex06 SQL - Updating a data.
 
-<img src="https://github.com/beatriangu/Django_2_SQL/blob/main/path_to_your_thumbnail.png" alt="Miniatura" width="300"/>
-
-![Miniatura](https://github.com/beatriangu/Django_2_SQL/blob/main/path_to_your_thumbnail.png)
-
+<img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-08-12.png" alt="Miniatura" width="400"/>
 
 ex07 ORM - Updating a data.
 
