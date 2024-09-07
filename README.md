@@ -32,7 +32,12 @@ ex08 SQL - Foreign Key
 </p>
 
 <p align="left">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-16-07.png" alt="Miniatura" width="300"/>
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2016-07-41.png" alt="Miniatura" width="300"/>
 </p>
+
+<p align="left">
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-23-01.png" alt="Miniatura" width="300"/>
+</p>
+
 
 
