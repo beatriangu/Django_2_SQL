@@ -17,6 +17,7 @@ Comparing both approaches helps to understand when it is more efficient or conve
 <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2015-06-52.png" alt="Miniatura ex02" width="300"/>
 </p>
+
 - **ex03** ORM - Data insertion.
 - **ex04** SQL - Data deleting.
 After removing The Phantom Menace  and  Atack of the Clones...I display again ;
