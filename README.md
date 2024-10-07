@@ -32,14 +32,14 @@ Comparing both approaches helps to understand when it is more efficient or conve
   </div>
 
 - **ex05** ORM - Deleting data.
-
 - **ex06** SQL - Updating a data.
   <p align="left">
-  <img src=" https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2018-03-00.png" alt="Miniatura" width="300"/>
+    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2018-03-00.png" alt="Miniatura 1" width="300"/>
   </p>
   <p align="left">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-58-33.png" alt="Miniatura" width="300"/>
+    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-58-33.png" alt="Miniatura 2" width="300"/>
   </p>
+
   
 - **ex07** ORM - Updating a data.
   <p align="left">
