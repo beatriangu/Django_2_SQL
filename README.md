@@ -22,15 +22,13 @@ Comparing both approaches helps to understand when it is more efficient or conve
 
 <!-- Sección de miniaturas -->
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <p align="left" style="flex: 1;">
+  <p align="left" style="flex: 1; text-align: left;">
     <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-16-50.png?raw=true" alt="Miniatura 1" width="150"/>
   </p>
-  <p align="center" style="flex: 1;">
+  <p align="center" style="flex: 1; text-align: center;">
     <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-17-07.png?raw=true" alt="Miniatura 2" width="150"/>
   </p>
-</div>
-<div style="display: flex; justify-content: flex-end; margin-top: 10px;">
-  <p align="right" style="flex: 1;">
+  <p align="right" style="flex: 1; text-align: right;">
     <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-18-42.png?raw=true" alt="Miniatura 3" width="150"/>
   </p>
 </div>
@@ -43,7 +41,6 @@ Comparing both approaches helps to understand when it is more efficient or conve
 <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-39-53.png" alt="Miniatura" width="300"/>
 </p>
-
 
 - **ex08** SQL - Foreign Key
 
