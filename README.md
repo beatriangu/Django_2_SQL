@@ -11,9 +11,9 @@ Comparing both approaches helps to understand when it is more efficient or conve
 ### Exercises
 - **ex00** SQL - Building a table.
 - **ex01** ORM - Building a table.
-
-- <p align="left">
+<p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2014-21-18.png" alt="Miniatura ex01" width="300"/>
+  
 - **ex02** SQL - Data insertion.
 - **ex03** ORM - Data insertion.
 - **ex04** SQL - Data deleting.
