@@ -25,13 +25,7 @@ Comparing both approaches helps to understand when it is more efficient or conve
 
 - **ex04** SQL - Data deleting.
   After removing The Phantom Menace and Attack of the Clones... I display again:
-  <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-    <p align="left" style="flex: 1; text-align: left;">
-      <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-16-50.png?raw=true" alt="Miniatura 1" width="150"/>
-    </p>
-    <p align="center" style="flex: 1; text-align: center;">
-      <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-17-07.png?raw=true" alt="Miniatura 2" width="150"/>
-    </p>
+
     <p align="right" style="flex: 1; text-align: right;">
       <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-18-42.png?raw=true" alt="Miniatura 3" width="150"/>
     </p>
