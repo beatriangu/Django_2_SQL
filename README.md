@@ -14,21 +14,36 @@ Comparing both approaches helps to understand when it is more efficient or conve
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2014-21-18.png" alt="Miniatura ex00" width="300"/>
 - **ex01** ORM - Building a table.
 - **ex02** SQL - Data insertion.
-  <p align="left">
+<p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2015-06-52.png" alt="Miniatura ex02" width="300"/>
-  </p>
+</p>
 - **ex03** ORM - Data insertion.
 - **ex04** SQL - Data deleting.
+
+<!-- Sección de miniaturas -->
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+  <p align="left" style="flex: 1;">
+    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-16-50.png?raw=true" alt="Miniatura 1" width="150"/>
+  </p>
+  <p align="center" style="flex: 1;">
+    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-17-07.png?raw=true" alt="Miniatura 2" width="150"/>
+  </p>
+</div>
+<div style="display: flex; justify-content: flex-end; margin-top: 10px;">
+  <p align="right" style="flex: 1;">
+    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-18-42.png?raw=true" alt="Miniatura 3" width="150"/>
+  </p>
+</div>
+
 - **ex05** ORM - Deleting data.
 - **ex06** SQL - Updating a data.
-
-
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-08-12.png" alt="Miniatura" width="400"/>
+<img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-08-12.png" alt="Miniatura" width="400"/>
 
 - **ex07** ORM - Updating a data.
-  <p align="left">
-    <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-39-53.png" alt="Miniatura" width="300"/>
-  </p>
+<p align="left">
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-39-53.png" alt="Miniatura" width="300"/>
+</p>
+
 
 - **ex08** SQL - Foreign Key
 
