@@ -35,7 +35,7 @@ Comparing both approaches helps to understand when it is more efficient or conve
 
 - **ex06** SQL - Updating a data.
   <p align="left">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-08-12.png" alt="Miniatura" width="300"/>
+  <img src=" https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2018-03-00.png" alt="Miniatura" width="300"/>
   </p>
   <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2017-58-33.png" alt="Miniatura" width="300"/>
