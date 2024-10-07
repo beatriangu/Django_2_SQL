@@ -15,7 +15,8 @@ Comparing both approaches helps to understand when it is more efficient or conve
 - **ex01** ORM - Building a table.
 - **ex02** SQL - Data insertion.
   <p align="left">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2014-21-18.png" alt="Miniatura ex02" width="300"/>
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-07%2015-06-52.png)" alt="Miniatura ex02" width="300"/>
+  ?raw=true
 - **ex03** ORM - Data insertion.
 - **ex04** SQL - Data deleting.
 - **ex05** ORM - Deleting data.
