@@ -58,6 +58,9 @@ Comparing both approaches helps to understand when it is more efficient or conve
   <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-45-20.png" alt="Miniatura" width="300"/>
   </p>
+  <p align="left">
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-09%2012-08-23.png" alt="Miniatura" width="300"/>
+  </p>
 
 - **ex10** ORM - Many to Many
   <p align="left">
