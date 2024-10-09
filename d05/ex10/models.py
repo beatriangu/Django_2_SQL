@@ -25,7 +25,7 @@ class People(models.Model):
     
     name = models.CharField(max_length=64, unique=True)
     birth_year = models.CharField(max_length=32, null=True)
-    gender = models.CharField(max_length=10, choices=GENDER_CHOICES, null=True)
+    gender = models.CharField(max_length=32, choices=GENDER_CHOICES, null=True)
     eye_color = models.CharField(max_length=32, null=True)
     hair_color = models.CharField(max_length=32, null=True)
     height = models.IntegerField(null=True)
