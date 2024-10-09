@@ -43,7 +43,7 @@ Comparing both approaches helps to understand when it is more efficient or conve
   
 - **ex07** ORM - Updating a data.
   <p align="left">
-  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-39-53.png" alt="Miniatura" width="300"/>
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-09%2011-56-21.png" alt="Miniatura" width="300"/>
   </p>
 
 - **ex08** SQL - Foreign Key
