@@ -66,7 +66,10 @@ Comparing both approaches helps to understand when it is more efficient or conve
   <p align="left">
   <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-07%2017-52-16.png" alt="Miniatura" width="300"/>
   </p>
-
+  <p align="left">
+  <img src="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-10-09%2017-00-13.png" alt="Miniatura" width="300"/>
+  </p>
+  
 <!-- Link to Evaluation Sheet -->
 <p><a href="https://github.com/beatriangu/Django_2_SQL/blob/main/Screenshot%20from%202024-09-09%2015-04-39.png">Evaluación Sheet</a></p>
 
